@@ -1,0 +1,42 @@
+[root@localhost redis-py-master]# python
+Python 2.6.6 (r266:84292, Jul 23 2015, 15:22:56) 
+[GCC 4.4.7 20120313 (Red Hat 4.4.7-11)] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+
+Pytho for Redis
+
+>>> import redis
+>>> r = redis.Redis(host='localhost', port=6379, db=0)
+>>> r.set('foo','bar')
+True
+>>> r.get('foo')
+'bar'
+>>> 
+
+Python for Mysql
+
+>>> import MySQLdb
+/usr/lib64/python2.6/site-packages/MySQL_python-1.2.4-py2.6-linux-x86_64.egg/_mysql.py:3: UserWarning: Module _mysql was already imported from /usr/lib64/python2.6/site-packages/MySQL_python-1.2.4-py2.6-linux-x86_64.egg/_mysql.pyc, but /home/Test_Group/MySQLdb1-master is being added to sys.path
+>>> conn=MySQLdb.connect(host="192.168.1.70",user="root",passwd="changeme",db="mysql")
+>>> cursor=conn.cursor()
+>>> sql="select * from user"
+>>> cursor.execute(sql)
+8L
+>>> row=cursor.fetchone()
+>>> print row
+('%', 'root', '*7ACE763ED393514FE0C162B93996ECD195FFC4F5', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', '', '', '', '', 0L, 0L, 0L, 0L, 'mysql_native_password', '', 'N')
+>>> 
+
+
+Python for UltraJSON 
+
+>>> import cjson
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ImportError: No module named cjson
+>>> import ujson
+>>> ujson.dumps([{"key": "value"}, 81, True])
+'[{"key":"value"},81,true]'
+>>> ujson.loads("""[{"key": "value"}, 81, true]""")
+[{u'key': u'value'}, 81, True]
+>>> 
