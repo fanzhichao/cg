@@ -1,6 +1,7 @@
 
 隐私政策 Privacy Policy
 
+
 星辰互动游戏隐私政策
 欢迎您使用星辰游戏（星辰网络科技有限公司，以下简称“我们”）！我们非常重视保护用户（以下简称“您”）的个人信息和隐私。您可以通过《星辰互动游戏隐私政策》了解我们收集、使用、存储用户个人信息的情况，以及您所享有的相关权利。
 本隐私政策将帮助您了解以下内容：
@@ -41,7 +42,7 @@
 • 评估我们服务中的广告和其他促销及推广活动的效果，并加以改善；
 • 软件认证或管理软件升级；
 • 让您参与有关我们产品和服务的调查。
-2. 为了让我们的用户有更好的体验、改善我们的服务或您同意的其他用途，在符合相关法律法规的前提下，我们可能将通过我们的某一项服务所收集的个人信息，以汇集信息或者个性化的方式，用于我们的其他服务。 例如，在您使用我们的一项服务时所收集的您的个人信息，可能在另一服务中用于向您提供特定内容或向您展示与您相关的、而非普遍推送的信息。如我们在相关服务之中提供了相应选项，您也可以主动要求我们将您在该服务所提供和储存的个人信息用于我们的其他服务。您可以通过点击退出或通过以下方式操作关闭信息推送：请发送邮件至evan8888@protonmail.com与游戏协调人联系。我们将尽快审核所涉问题，并在验证身份后及时处理，最长在不超过十五天或法律法规规定期限内予以回复。一般情况下，我们将在十五个工作日内回复。
+2. 为了让我们的用户有更好的体验、改善我们的服务或您同意的其他用途，在符合相关法律法规的前提下，我们可能将通过我们的某一项服务所收集的个人信息，以汇集信息或者个性化的方式，用于我们的其他服务。 例如，在您使用我们的一项服务时所收集的您的个人信息，可能在另一服务中用于向您提供特定内容或向您展示与您相关的、而非普遍推送的信息。如我们在相关服务之中提供了相应选项，您也可以主动要求我们将您在该服务所提供和储存的个人信息用于我们的其他服务。您可以通过点击退出或通过以下方式操作关闭信息推送：请发送邮件至fanzhichao1983@gmail.com与游戏协调人联系。我们将尽快审核所涉问题，并在验证身份后及时处理，最长在不超过十五天或法律法规规定期限内予以回复。一般情况下，我们将在十五个工作日内回复。
 3. 请您注意， 您在使用我们提供的服务时所提供的所有个人信息，除非您删除或通过系统设置拒绝我们收集，否则将在您使用我们的服务期间持续授权我们使用。
 （四）其他规则
 根据相关法律法规及国家标准，以下情形中，我们可能会收集、使用您的相关个人信息而无需征求您的授权同意：
@@ -111,7 +112,7 @@
 您可以通过设备权限设置或本隐私政策载明的方式与我们联系，以改变同意范围或撤回您的授权。
 请您理解，星辰互动游戏可能需要开启部分权限并收集必要的个人信息才能得以实现。当您撤回您的同意时，我们将无法继续为您提供撤回同意所对应的服务，但不会影响此前基于您的授权而开展的个人信息处理服务。
 4. 注销账户
-如果您希望注销您的账户，您可以发送邮件至evan8888@protonmail.com与游戏协调人联系。我们将尽快审核所涉问题，并在验证身份后及时处理，最长在不超过十五天或法律法规规定期限内予以回复。
+如果您希望注销您的账户，您可以发送邮件至fanzhichao1983@gmail.com与游戏协调人联系。我们将尽快审核所涉问题，并在验证身份后及时处理，最长在不超过十五天或法律法规规定期限内予以回复。
 您注销上述账户的行为是不可逆的，我们将停止为您提供产品或服务，不再收集您的个人信息，并依据您的要求删除与您账户相关的个人信息或做匿名化处理。
 5. 响应您的上述请求
 如您无法按照上述方式行使权利的，您可以采取本隐私政策载明的联系方式与我们联系。为保障安全，您可能需要提供书面请求，或以其他方式证明您的身份。我们可能会先要求您验证自己的身份，然后再处理您的请求。
@@ -124,7 +125,7 @@
 本政策发生变更时，我们会在版本更新时以适当的方式向您提示变更后的指引。请您仔细阅读变更后的隐私保护指引或指引内容，您继续使用游戏内容表示您同意我们按照更新后的隐私保护指引收集、处理或使用您的个人信息。如修改造成您在本政策下权利的实质减少，您可以选择停止使用我们向您提供的服务。任何修改都会将您的满意度置于首位。我们鼓励您在每次访问星辰互动游戏的网页时都查阅我们的隐私政策。
 最后，您是唯一对您的账号和密码信息负有保密责任的人。任何情况下，请小心妥善保管。
 八、如何联系我们
-有关本声明或星辰互动游戏隐私措施的问题请发送邮件至evan8888@protonmail.com与游戏协调人联系。我们将尽快审核所涉问题，并在验证身份后及时处理，最长在不超过十五天或法律法规规定期限内予以回复。一般情况下，我们将在十五个工作日内回复。
+有关本声明或星辰互动游戏隐私措施的问题请发送邮件至fanzhichao1983@gmail.com与游戏协调人联系。我们将尽快审核所涉问题，并在验证身份后及时处理，最长在不超过十五天或法律法规规定期限内予以回复。一般情况下，我们将在十五个工作日内回复。
 如果您对我们的回复不满意，特别是我们的个人信息处理行为损害了您的合法权益，您还可以向网信、电信、公安及工商等监管部门进行投诉或举报，或通过向被告住所地有管辖权的法院提起诉讼来寻求解决方案。 
 【重要提示】：
 本政策适用于不满十四周岁的未成年人的个人信息处理。有关您和已满十四周岁的用户的个人信息处理，请查看《星辰互动游戏隐私政策》了解相关信息。
@@ -203,7 +204,7 @@ If you want to turn off the permission after you authorize it for the first time
 • Evaluate and improve the effectiveness of advertising and other promotions and promotions on our Services;
 • Software certification or management of software upgrades;
 • To allow you to participate in surveys about our products and services.
-2. In order to give our users a better experience, improve our services or other purposes you agree to, we may use the personal information collected through one of our services to Aggregate information or personalize it for use in our other services. For example, your personal information collected when you use one of our services may be used in another service to provide you with specific content or to show you information that is relevant to you rather than generally pushed. If we provide corresponding options in related services, you can also actively request us to use the personal information you provide and store in the service for our other services. You can close the information push by clicking Exit or by the following operations: Please send an email to evan8888@protonmail.com to contact the game coordinator. We will review the issues involved as soon as possible, and deal with them in a timely manner after verifying the identity, and reply within no more than 15 days or the time limit stipulated by laws and regulations. Generally, we will reply within fifteen working days.
+2. In order to give our users a better experience, improve our services or other purposes you agree to, we may use the personal information collected through one of our services to Aggregate information or personalize it for use in our other services. For example, your personal information collected when you use one of our services may be used in another service to provide you with specific content or to show you information that is relevant to you rather than generally pushed. If we provide corresponding options in related services, you can also actively request us to use the personal information you provide and store in the service for our other services. You can close the information push by clicking Exit or by the following operations: Please send an email to fanzhichao1983@gmail.com to contact the game coordinator. We will review the issues involved as soon as possible, and deal with them in a timely manner after verifying the identity, and reply within no more than 15 days or the time limit stipulated by laws and regulations. Generally, we will reply within fifteen working days.
 3. Please note that all personal information you provide when using our services will continue to be used by us during your use of our services unless you delete or refuse our collection through system settings.
 (4) Other rules
 According to relevant laws, regulations and national standards, we may collect and use your relevant personal information without your authorization and consent in the following situations:
@@ -273,7 +274,7 @@ In the following circumstances, you may request us to delete personal informatio
 You can change your consent or withdraw your authorization by contacting us through your device permission settings or as set out in this Privacy Policy.
 Please understand that Xingchen Interactive Games may need to open some permissions and collect necessary personal information to achieve this. When you withdraw your consent, we will not be able to continue to provide you with the services corresponding to the withdrawal of consent, but will not affect the personal information processing services previously carried out based on your authorization.
 4. Cancellation of account
-If you wish to cancel your account, you can contact the game coordinator at evan8888@protonmail.com. We will review the issues involved as soon as possible, and deal with them in a timely manner after verifying the identity, and reply within no more than 15 days or the time limit stipulated by laws and regulations.
+If you wish to cancel your account, you can contact the game coordinator at fanzhichao1983@gmail.com. We will review the issues involved as soon as possible, and deal with them in a timely manner after verifying the identity, and reply within no more than 15 days or the time limit stipulated by laws and regulations.
 Your cancellation of the above account is irreversible. We will stop providing you with products or services, no longer collect your personal information, and delete or anonymize the personal information related to your account according to your request.
 5. Respond to your above request
 If you are unable to exercise your rights in the above manner, you can contact us using the contact information set out in this Privacy Policy. For security, you may be required to provide a written request or otherwise prove your identity. We may ask you to verify your identity before processing your request.
@@ -286,7 +287,7 @@ If you are the guardian of a minor, please pay attention to whether the minor un
 When this policy is changed, we will remind you of the changed guidelines in an appropriate way when the version is updated. Please read the changed privacy protection guidelines or guidelines carefully. By continuing to use the game content, you agree that we will collect, process or use your personal information in accordance with the updated privacy protection guidelines. If the modification results in a material reduction of your rights under this policy, you may choose to stop using the services we provide to you. Any modification will put your satisfaction first. We encourage you to review our Privacy Policy each time you visit the Star Interactive Games web pages.
 Finally, you are the only person responsible for the confidentiality of your account and password information. In any case, please keep it carefully.
 8. How to contact us
-For questions about this statement or the privacy practices of Star Interactive Games, please contact the game coordinator at evan8888@protonmail.com. We will review the issues involved as soon as possible, and deal with them in a timely manner after verifying the identity, and reply within no more than 15 days or the time limit stipulated by laws and regulations. Generally, we will reply within fifteen working days.
+For questions about this statement or the privacy practices of Star Interactive Games, please contact the game coordinator at fanzhichao1983@gmail.com. We will review the issues involved as soon as possible, and deal with them in a timely manner after verifying the identity, and reply within no more than 15 days or the time limit stipulated by laws and regulations. Generally, we will reply within fifteen working days.
 If you are not satisfied with our reply, especially if our personal information processing behavior has damaged your legitimate rights and interests, you can also file a complaint or report to the regulatory authorities such as Internet, telecommunications, public security, and industry and commerce, or file a complaint with the defendant's domicile. A court of competent jurisdiction files a lawsuit to find a solution.
 【important hint】:
 This policy applies to the processing of personal information of minors under the age of fourteen. Regarding the handling of personal information of you and users over the age of 14, please check the "Xingchen Interactive Game Privacy Policy" for relevant information.
